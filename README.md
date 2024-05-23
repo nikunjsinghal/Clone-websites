@@ -1,2 +1,2 @@
 # Clone-websites
-This my first Web Development Project
+This Repo contains some of my First personal projects 
